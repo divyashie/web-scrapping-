@@ -1,0 +1,1105 @@
+
+postdocs
+
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+phd students
+
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+alums
+
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
+Dallas Card
+(Computer Science, co-advised by Dan McFarland)
+    
+Vivek Kulkarni
+(Computer Science, co-advised by Dan McFarland)
+Kyle Mahowald
+(Computer Science, co-advised by Dan McFarland)
+Rob Voigt
+(Computer Science)
+
+Juan Ignacio Cases Martin
+(Linguistics , co-advised by Chris Potts)
+Dora Demszky
+(Linguistics )
+Michael Hahn
+(Linguistics, co-mentored by Judith Degen)
+Peter Henderson
+(Computer Science)
+Dan Iter
+(Computer Science)
+Ria Kalluri 
+(Computer Science, co-advised by Stefano Ermon)
+Urvashi Khandelwal
+(Computer Science)
+Yiwei Luo
+(Linguistics)
+Isabel Papadimitriou
+(Computer Science)
+Reid Pryzant
+(Computer Science)
+
+Nathan Dass (MS Computer Science 2019, now at Google)
+Julia Mendelsohn (MS Computer Science 2019, now PhD student, U Michigan)
+Simon Todd
+(PhD Linguistics 2019, now postdoc, University of Canterbury)
+Ziang Xie
+(PhD Computer Science 2018)
+Vinod Prabhakaran (Postdoc 2015-2018, now at Google))
+Will Hamilton
+(PhD Computer Science 2018, now Assistant Professor of Computer Science at McGill)
+Jiwei Li
+(PhD Computer Science 2017, now at shannon.ai)
+Prateek Verma
+(MS Electrical Engineering 2017)
+Diyi Yang
+(visiting PhD student, 2017; now Assistant Professor, Georgia Tech)
+Xiang Ren
+(visiting PhD student, 2017; now Assistant Professor, Computer Science, USC)
+David Jurgens (Postdoc 2015-17, now Assistant Professor, School of Information, U Michigan)
+Yulia Tsvetkov (Postdoc 2016-17, now Assistant Professor, LTI, CMU)
+Raine Hoover
+(MS Computer Science 2017)
+Felix Muzny
+(MS Computer Science 2017, now Instructor, CS, University of Colorado, Boulder)
+Ruihong Huang (Postdoc 2014-15, now Assistant Professor, CSE, Texas A&M; University)
+Andrew Maas
+(PhD Computer Science 2015; now at Roam)
+Adam Vogel
+(Computer Science; now at SignalFire)
+Heeyoung Lee
+(PhD Electrical Engineering 2015; now at Google)
+ 
+    Val Spitkovsky
+(PhD Computer Science 2013; now at Google)
+ 
+Cristian Danescu-Niculescu-Mizil
+(Postdoc 2013; now Assistant Professor, Department of Information Science, Cornell )
+ Dan Cer (Postdoc 2011-2013; now at Google)
+Kevin Reschke (MS Computer Science 2013; now at Roam)
+Rob Voigt (MA Asian Studies 2013; now PhD student linguistics, Stanford)
+
+Marta Recasens
+ (Postdoc 2011-2013; now at Google Research)
+ Uriel Cohen Priva 
+(PhD Linguistics 2012; now Assistant Professor, Cognitive, Linguistic & Psychological Sciences,  Brown University)
+Richard Futrell
+(MA Linguistics 2012; now Assistant Professor, Dept of Language Science,  UC Irvine)
+Nikhil Johri (MS Computer Science 2012; now at Facebook)
+Steven Woonyeon Yoo (MS Computer Science 2012; now at Twitter)
+ Ellie Ash 
+(BA Linguistics 2012; now doctoral student, BU)
+Yves Peirsman
+(Postdoc, 2010-2011; now at NLP Town)
+Justine Kao (BA Symbolic Systems 2011; now,  post-PhD, Data Science Manager at Apple)
+ Nate Chambers 
+(PhD Computer Science 2011; now Associate Professor, Computer Science Department, US Naval Academy)
+ Dan Cer 
+(PhD Computer Science CU Boulder 2011; now at Google)
+Steven Bethard
+(Postdoc, 2009-2010; now Assistant Professor, University of Arizona)
+ Yun-Hsuan Sung
+(PhD Electrical Engineering 2010; now at Google)
+ Rajesh Ranganath
+(MS Computer Science 2009; now  Assistant Professor, NYU )
+ Yuan Zhao D'Antilio
+(PhD Linguistics 2009)
+ Inbal Arnon
+(PhD Linguistics 2009; now Professor of Psychology, Hebrew University)
+Rion Snow
+(PhD Computer Science 2009)
+David Hall
+(MA Symbolic Systems; now Principle Researcher, Microsoft)
+Sebastian Padó
+(Postdoc, 2007-2009; now Professor für Computerlinguistik ,
+           Institut für
+                  Maschinelle Sprachverarbeitung,
+              Universität Stuttgart)
+  Huihsin Tseng
+(PhD Linguistics, CU Boulder, 2008)
+ Jason M. Brenier
+(PhD Linguistics, CU Boulder, 2008, now at Georgian Partners)
+Sharon Goldwater
+(Postdoc, 2006-2008; now Professor, School of Informatics University of Edinburgh) 
+ Thad Hughes
+(MS Computer Science, 2007; now at Google Research)
+ Surabhi Gupta
+(MS Computer Science, 2007; now Director of Engineering, Airbnb)
+ Ani Nenkova
+(Postdoc, 2006-2007; now Associate Professor, Computer and Information Science, University of Pennsylvania)
+ Florian Jaeger
+(PhD, Linguistics, 2006; now Professor, Brain and Cognitive Sciences, University of Rochester)
+ Connie Davidson (née Clarke)
